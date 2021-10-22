@@ -40,6 +40,6 @@ superuser: true
 title: Gabriel M. B. Neves
 ---
 
-My name is Gabriel M. B. Neves, I have a Master's Degree in Economics. My research is focused on Labor Economics and Economics of Educations. My interests include Economics, R, Python, SQL, Stata and Linux.
+My name is Gabriel M. B. Neves, I have a Master's Degree in Economics. My research is focused on Labor Economics and Economics of Education. My interests include Economics, R, Python, SQL, Stata and Linux.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume - Gabriel M. B. Neves.pdf" "newtab" >}}resumé{{< /staticref >}}.
