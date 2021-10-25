@@ -1,5 +1,5 @@
 ---
-bio: My research interests include labor economics and economics of education.
+bio: Graduate student in Economics at PPGE - UFPB
 education:
   courses:
   - course: MSc in Economics
@@ -11,8 +11,12 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Labor Economics
-- Economics of Education
+- Labor economics
+- Economics of education
+- R
+- Python
+- SQL
+- Linux
 organizations:
 - name: PPGE - UFPB
   url: https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=1875
@@ -20,26 +24,30 @@ role: MSc in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:gmbneves@gmail.com
 - display:
-    header: true
+    header: false # Show on the main menu
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/gmbneves
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: graduation-cap
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gmbneves
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/gmbneves/
 superuser: true
-title: Gabriel M. B. Neves
+title: Gabriel M. Baeta Neves
 ---
 
-My name is Gabriel M. B. Neves, I have a Master's Degree in Economics. My research is focused on Labor Economics and Economics of Education. My interests include Economics, R, Python, SQL, Stata and Linux.
+Hi! My name is Gabriel Mattos Baeta Neves. I'm currently a graduate student in the Economics Graduate Program at the Federal University of Paraíba (PPGE - UFPB). My research is focused on labor economics and economics of education.
+
+This website is under construction. My goal here is to build an academic website that shows a little a bit of my - still very brief - career and blog about my research and other interests.
+
+Feel free to contact me or follow me on my social media by clicking on the respective icon below.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume - Gabriel M. B. Neves.pdf" "newtab" >}}resumé{{< /staticref >}}.

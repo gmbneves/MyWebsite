@@ -20,48 +20,54 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: gmbneves@gmail.com
+#email: gmbneves@gmail.com
 #phone: 888 888 88 88
 #address:
-  #street: 450 Serra Mall
-  #city: Stanford
-  #region: CA
-  #postcode: '94305'
-  #country: United States
-  #country_code: US
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
+#  country_code: US
 #coordinates:
-  #latitude: '37.4275'
-  #longitude: '-122.1697'
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
-  #- 'Monday 10:00 to 13:00'
-  #- 'Wednesday 09:00 to 10:00'
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/gmbneves'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/gmbneves'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
 main_menu:
+  # Display the navigation bar?
   enable: true
+  # Align menu links: left (l), center (c), or right(r)
   align: l
+  # Display your site title or 'assets/media/logo*' image in the nav bar?
   show_logo: true
-  show_language: false
+  # Show a language chooser (if you have translated your site content)?
+  #show_translations: false
+  # If 'show_translations' is enabled, do you wish to display the current language name?
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
